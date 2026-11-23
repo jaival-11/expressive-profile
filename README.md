@@ -87,6 +87,7 @@ To change the profile later, edit `profile.json` in the repository or set it up 
 ## Made with Expressive Profile
 
 - [metawka](https://github.com/metawka)
+- [jaival-11](https://github.com/jaival-11)
 
 Profiles built with the generator can be added to this list with a pull request.
 
